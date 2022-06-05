@@ -1,0 +1,1 @@
+const e={key:"v-450babca",path:"/feedback.html",title:"Feedback",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Contact Lib",slug:"contact-lib",children:[]}],git:{updatedTime:1654441395e3,contributors:[{name:"enshael",email:"65916237+enshael@users.noreply.github.com",commits:1}]},filePathRelative:"feedback.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-3e18de4e",path:"/Interludes/David.html",title:"David",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"David and Goliath",slug:"david-and-goliath",children:[]}],git:{updatedTime:1654407762e3,contributors:[{name:"enshael",email:"65916237+enshael@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/David.md"};export{e as data};

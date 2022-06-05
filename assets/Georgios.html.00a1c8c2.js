@@ -1,1 +1,0 @@
-const e={key:"v-4d29afae",path:"/Interludes/Georgios.html",title:"Georgios",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"St. George",slug:"st-george",children:[]}],git:{updatedTime:1654407762e3,contributors:[{name:"enshael",email:"65916237+enshael@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Georgios.md"};export{e as data};

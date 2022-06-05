@@ -1,0 +1,1 @@
+const e={key:"v-66ca593e",path:"/Interludes/Asclepius.html",title:"Asclepius",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Memory of Medicine",slug:"memory-of-medicine",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Asclepius.md"};export{e as data};

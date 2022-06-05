@@ -1,0 +1,1 @@
+const e={key:"v-64b81603",path:"/Interludes/Edward%20Teach.html",title:"Edward Teach",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"A Man's Battle",slug:"a-man-s-battle",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Edward Teach.md"};export{e as data};

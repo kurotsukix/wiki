@@ -1,0 +1,1 @@
+const e={key:"v-71a1e6c2",path:"/Interludes/Euryale.html",title:"Euryale",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"From Me to My Sisters",slug:"from-me-to-my-sisters",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Euryale.md"};export{e as data};

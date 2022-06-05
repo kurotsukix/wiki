@@ -1,0 +1,1 @@
+const e={key:"v-67be2286",path:"/Interludes/Arash.html",title:"Arash",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Lonely Soldier, Brave As a Lion",slug:"lonely-soldier-brave-as-a-lion",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Arash.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-0b6aaee7",path:"/Interludes/Gawain.html",title:"Gawain",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"May Good Deeds Be Protected",slug:"may-good-deeds-be-protected",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Gawain.md"};export{e as data};

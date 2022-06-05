@@ -1,0 +1,1 @@
+const e={key:"v-02002bdd",path:"/Interludes/Romulus.html",title:"Romulus",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Guardian of Septem is Here",slug:"guardian-of-septem-is-here",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Romulus.md"};export{e as data};

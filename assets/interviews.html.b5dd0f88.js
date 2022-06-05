@@ -1,0 +1,1 @@
+const e={key:"v-22ebce24",path:"/interviews.html",title:"Interviews",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"2022",slug:"_2022",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"interviews.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-fcb23548",path:"/Interludes/Spartacus.html",title:"Spartacus",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Gladiator Circus",slug:"gladiator-circus",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Spartacus.md"};export{t as data};

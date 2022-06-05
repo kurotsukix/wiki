@@ -1,1 +1,0 @@
-const e={key:"v-a884e7d4",path:"/Interludes/Beni-enma.html",title:"Beni-enma",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Secret to the Enma Ledger",slug:"secret-to-the-enma-ledger",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Beni-enma.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-78d762c4",path:"/Interludes/Lu%20Bu%20Fengxian.html",title:"Lu Bu Fengxian",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Tiger and Wolf",slug:"tiger-and-wolf",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Lu Bu Fengxian.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-0e08d9a2",path:"/Interludes/Hijikata%20Toshizo.html",title:"Hijikata Toshizo",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"About a Person",slug:"about-a-person",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Hijikata Toshizo.md"};export{e as data};

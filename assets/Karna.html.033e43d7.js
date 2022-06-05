@@ -1,1 +1,0 @@
-const e={key:"v-4ff6e113",path:"/Interludes/Karna.html",title:"Karna",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Heroic Spirit of the Charity",slug:"heroic-spirit-of-the-charity",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Karna.md"};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-2b886d7a",path:"/Interludes/Ushiwakamaru.html",title:"Ushiwakamaru",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Love is Not Free",slug:"love-is-not-free",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Ushiwakamaru.md"};export{e as data};

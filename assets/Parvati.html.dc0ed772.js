@@ -1,1 +1,0 @@
-const a={key:"v-aa49ff6c",path:"/Trial/Parvati.html",title:"Trial Quest - Parvati",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"A Lady Descends to Fuyuki",slug:"a-lady-descends-to-fuyuki",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Trial/Parvati.md"};export{a as data};

@@ -1,0 +1,1 @@
+const e={key:"v-3963aa2d",path:"/Interludes/Rama.html",title:"Rama",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vishnu's Test",slug:"vishnu-s-test",children:[]}],git:{updatedTime:1654407094e3,contributors:[{name:"enshael",email:"65916237+enshael@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Rama.md"};export{e as data};

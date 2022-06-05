@@ -1,0 +1,1 @@
+const e={key:"v-7bb6191e",path:"/Interludes/Beowulf.html",title:"Beowulf",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Grendel's Second Coming",slug:"grendel-s-second-coming",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Beowulf.md"};export{e as data};

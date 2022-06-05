@@ -1,0 +1,1 @@
+const e={key:"v-7cd0fc7b",path:"/Interludes/C%C3%BA%20Chulainn.html",title:"C\xFA Chulainn",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"The Taboo",slug:"the-taboo",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/C\xFA Chulainn.md"};export{e as data};

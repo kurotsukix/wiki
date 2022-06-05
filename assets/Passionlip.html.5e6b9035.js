@@ -1,1 +1,0 @@
-const e={key:"v-412e5fb4",path:"/Interludes/Passionlip.html",title:"Passionlip",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sakura Labyrinth\uFF0FM",slug:"sakura-labyrinth-m",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Passionlip.md"};export{e as data};

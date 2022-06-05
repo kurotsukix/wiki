@@ -1,0 +1,1 @@
+const e={key:"v-e12a8714",path:"/Interludes/Qin%20Liangyu.html",title:"Qin Liangyu",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Operation: Giant Panda",slug:"operation-giant-panda",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Qin Liangyu.md"};export{e as data};

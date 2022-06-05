@@ -1,1 +1,0 @@
-const e={key:"v-e484dedc",path:"/Interludes/Asterios.html",title:"Asterios",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"This Hand, For You",slug:"this-hand-for-you",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Asterios.md"};export{e as data};

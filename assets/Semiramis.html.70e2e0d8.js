@@ -1,0 +1,1 @@
+const e={key:"v-0dbd2ce8",path:"/Interludes/Semiramis.html",title:"Semiramis",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"What Ifs...",slug:"what-ifs",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Semiramis.md"};export{e as data};

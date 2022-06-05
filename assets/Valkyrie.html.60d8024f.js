@@ -1,0 +1,1 @@
+const e={key:"v-0612e9d1",path:"/Interludes/Valkyrie.html",title:"Valkyrie",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Die Walk\xFCre",slug:"die-walkure",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Valkyrie.md"};export{e as data};

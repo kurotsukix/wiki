@@ -1,0 +1,1 @@
+const e={key:"v-36d40b3b",path:"/Interludes/Thomas%20Edison.html",title:"Thomas Edison",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Can I Do It?",slug:"can-i-do-it",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Thomas Edison.md"};export{e as data};

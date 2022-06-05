@@ -1,1 +1,0 @@
-const e={key:"v-5e875161",path:"/Interludes/Kato%20Danzou.html",title:"Kato Danzou",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"More Human Heart",slug:"more-human-heart",children:[]}],git:{updatedTime:1654421619e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Kato Danzou.md"};export{e as data};

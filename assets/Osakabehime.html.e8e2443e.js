@@ -1,0 +1,1 @@
+const e={key:"v-05e906f3",path:"/Interludes/Osakabehime.html",title:"Osakabehime",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Hikikomori Milky Way",slug:"hikikomori-milky-way",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Osakabehime.md"};export{e as data};

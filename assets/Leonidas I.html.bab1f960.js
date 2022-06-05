@@ -1,0 +1,1 @@
+const e={key:"v-dbee28f6",path:"/Interludes/Leonidas%20I.html",title:"Leonidas I",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Leonidas Boot Camp",slug:"leonidas-boot-camp",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Leonidas I.md"};export{e as data};

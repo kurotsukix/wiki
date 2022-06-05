@@ -1,0 +1,1 @@
+const t={key:"v-2a3111ae",path:"/Interludes/Tristan.html",title:"Tristan",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"It Begins with Loss",slug:"it-begins-with-loss",children:[]}],git:{updatedTime:1654422931e3,contributors:[{name:"Lib",email:"blameramamod@gmail.com",commits:1}]},filePathRelative:"Interludes/Tristan.md"};export{t as data};

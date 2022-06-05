@@ -1,1 +1,0 @@
-const e={key:"v-cbaa933a",path:"/articles.html",title:"Articles",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Servant Mechanics",slug:"servant-mechanics",children:[]}],git:{updatedTime:1654407094e3,contributors:[{name:"enshael",email:"65916237+enshael@users.noreply.github.com",commits:1}]},filePathRelative:"articles.md"};export{e as data};

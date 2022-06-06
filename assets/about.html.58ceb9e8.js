@@ -1,1 +1,0 @@
-const t={key:"v-22a39d25",path:"/about.html",title:"About Page",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"About This Wiki",slug:"about-this-wiki",children:[]}],git:{updatedTime:1654556611e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"about.md"};export{t as data};

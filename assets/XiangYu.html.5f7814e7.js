@@ -1,1 +1,0 @@
-const e={key:"v-6452dadd",path:"/Interludes/XiangYu.html",title:"Xiang Yu",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vanguard of Time",slug:"vanguard-of-time",children:[]}],git:{updatedTime:1654556611e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/XiangYu.md"};export{e as data};

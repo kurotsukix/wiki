@@ -1,0 +1,1 @@
+const e={key:"v-3504ba92",path:"/Anime/Babylonia%20Ep%200.html",title:"Babylonia Episode 0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654558017e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Anime/Babylonia Ep 0.md"};export{e as data};

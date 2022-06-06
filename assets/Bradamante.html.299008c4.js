@@ -1,1 +1,0 @@
-const e={key:"v-09f94973",path:"/Interludes/Bradamante.html",title:"Bradamante",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Dear Ancestor!",slug:"dear-ancestor",children:[]}],git:{updatedTime:1654556611e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Bradamante.md"};export{e as data};

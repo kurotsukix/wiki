@@ -1,0 +1,1 @@
+const e={key:"v-bc54ec3e",path:"/Interludes/Nitocris.html",title:"Nitocris",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Pharaoh Nitocris",slug:"pharaoh-nitocris",children:[]}],git:{updatedTime:1654558017e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Nitocris.md"};export{e as data};

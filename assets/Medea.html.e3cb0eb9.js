@@ -1,0 +1,1 @@
+const e={key:"v-019a144c",path:"/Interludes/Medea.html",title:"Medea",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Witch's Backyard",slug:"witch-s-backyard",children:[]}],git:{updatedTime:1654556611e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Medea.md"};export{e as data};

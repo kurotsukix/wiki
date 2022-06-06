@@ -1,0 +1,1 @@
+const e={key:"v-2ec52454",path:"/Interludes/Gorgon.html",title:"Gorgon",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"You Are a Monster",slug:"you-are-a-monster",children:[]}],git:{updatedTime:165455976e4,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Gorgon.md"};export{e as data};

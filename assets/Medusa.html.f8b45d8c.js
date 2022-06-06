@@ -1,0 +1,1 @@
+const e={key:"v-713f38b9",path:"/Interludes/Medusa.html",title:"Medusa",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Gorgon's Bride",slug:"gorgon-s-bride",children:[]}],git:{updatedTime:165455976e4,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Medusa.md"};export{e as data};

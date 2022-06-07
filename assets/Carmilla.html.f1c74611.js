@@ -1,1 +1,0 @@
-const e={key:"v-c6cc5a02",path:"/Interludes/Carmilla.html",title:"Carmilla",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Alone, Again",slug:"alone-again",children:[]}],git:{updatedTime:1654591358e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Carmilla.md"};export{e as data};

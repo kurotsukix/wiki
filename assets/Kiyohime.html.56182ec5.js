@@ -1,1 +1,0 @@
-const e={key:"v-8e36c0ba",path:"/Interludes/Kiyohime.html",title:"Kiyohime",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Lips to Lips",slug:"lips-to-lips",children:[]}],git:{updatedTime:1654591358e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Kiyohime.md"};export{e as data};

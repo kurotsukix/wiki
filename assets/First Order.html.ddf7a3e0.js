@@ -1,1 +1,0 @@
-const e={key:"v-afedde5c",path:"/Anime/First%20Order.html",title:"First Order OVA",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654591358e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Anime/First Order.md"};export{e as data};

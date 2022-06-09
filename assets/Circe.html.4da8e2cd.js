@@ -1,1 +1,0 @@
-const e={key:"v-10bda6d4",path:"/Interludes/Circe.html",title:"Circe",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Curse of the Argo",slug:"curse-of-the-argo",children:[]}],git:{updatedTime:1654592851e3,contributors:[{name:"Lib",email:"59034871+Fgrandorder@users.noreply.github.com",commits:1}]},filePathRelative:"Interludes/Circe.md"};export{e as data};
